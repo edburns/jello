@@ -84,7 +84,7 @@ cd jello-audit/
 mvn clean install -Ppayara
 ```
 
-You can see the Web GUI here: http://localhost:8080/audit/app
+You can see the Web GUI here: http://localhost:8080/audit/
 
 (Click on connect to start receiving messages)
 
